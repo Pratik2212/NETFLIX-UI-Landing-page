@@ -19,5 +19,5 @@
 ## Signup page
 <img src="signup.png" width='600' height='auto'>
 
-link:https://Pratik2212.github.io/NETFLIX-UI-Landing-page/
+link:https://pratik2212.github.io/NETFLIX-UI-Landing-page/
 
